@@ -1,5 +1,16 @@
-# praktek-nextjs
+## Data Diri
 
-Repositori untuk praktek Matakuliah Pemograman API Kelas 5A dan 5B dengan Spesifikasi Standart NextJS versi 14.0.3 
+|  |  |
+|---|---|
+| NIM : | 22104410010 |
+| NAMA : | VIRGANDA RIMBA ASMARA |
+| NELAS : | TI 5 A |
+| DOSEN PENGAMPU : | Mohammad Faried Rahmat, S.ST., M.Tr.T |
 
-Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer Anda 
+## PEMROGRAMAN API
+
+### List Latihan
+
+| No | Latihan | Detail |
+|---|---|---|
+| 01 | Praktek | Praktek NextJS |
